@@ -1,43 +1,40 @@
 
-
-/*main{
-    background-color: #D6E1F0;
-    display: flex;
-    flex-direction: column;
-  }*/
-  article{
-    background-color:white ;
+  article {
+    background-color: white;
     padding: 1em;
     min-width: 16em;
     max-width: 50em;
     border-radius: 1em;
     margin: auto;
-    border-width: 22em;
+    border-width: 2px; 
     border-style: solid;
     border-color: #D6E1F0;
-  }
-  img
-  {
+    padding-bottom: 22px;
+    margin: auto;    
+}
+#margem
+ {
+  background-color: #D6E1F0;
+}
+ 
+
+img {
     width: 100%;
     height: auto;
-  }
-  h1,p,footer
-  {
-    font-family:  Outfit, Arial, sans-serif;
+}
+
+h1, p, footer {
+    font-family: 'Outfit', Arial, sans-serif;
     text-align: center;
-  }
-  a
-  {
+}
+
+a {
     text-decoration: none;
     color: blue;
-  }
-  a:hover
-  {
-    text-decoration: none;   
+    transition: color 0.3s ease; /* Adicionada transição para a cor */
+}
+
+a:hover {
+    text-decoration: none;
     color: crimson;
-  }
-
-  
-
-  
-  
+}
