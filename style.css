@@ -24,12 +24,13 @@ img {
 }
 
 h1, p, footer {
-    font-family: 'Outfit', Arial, sans-serif;
+    font-family: Outfit, Arial, sans-serif;
     text-align: center;
 }
 
 a {
     text-decoration: none;
+    font-weight: bolder;
     color: blue;
     transition: color 0.3s ease; /* Adicionada transição para a cor */
 }
