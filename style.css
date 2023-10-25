@@ -3,8 +3,8 @@
 main {
     background-color: white;
     padding: 1em;
-    min-width: 16em;
-    max-width: 50em;
+    min-width: 1em;
+    max-width: 16.5em;
     border-radius: 1em;
     margin: auto;
     border-width: 2px; 
@@ -25,10 +25,11 @@ img {
     height: auto;
 }
 
-h1, p, footer {
+h3, p, footer {
     font-family: Outfit, Arial, sans-serif;
     text-align: center;
 }
+
 
 a {
     text-decoration: none;
