@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
 main {
     background-color: white;
     padding: 1em;
     min-width: 16em;
     max-width: 50em;
+
+
     border-radius: 1em;
     margin: auto;
     border-width: 2px; 
@@ -15,6 +18,7 @@ main {
 body
  {
   background-color: #D6E1F0;
+  
 }
  
 
