@@ -5,19 +5,17 @@ main {
     padding: 1em;
     min-width: 16em;
     max-width: 50em;
-
-
     border-radius: 1em;
     margin: auto;
     border-width: 2px; 
     border-style: solid;
     border-color: #D6E1F0;
-    padding-bottom: 22px;
-    margin: auto;    
+    padding-bottom: 22px; 
 }
+
 body
  {
-  background-color: #D6E1F0;
+  background-color: #D6E1F0; 
   
 }
  
@@ -36,7 +34,7 @@ a {
     text-decoration: none;
     font-weight: bolder;
     color: blue;
-    transition: color 0.3s ease; /* Adicionada transição para a cor */
+    transition: color 0.5s ease; /* Adicionada transição para a cor */
 }
 
 a:hover {
